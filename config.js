@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'IsoCMD',
+  heading: 'WebCadd',
   subHeading: 'Iso Command Full time Web Developer. For EPC Contractor Piping Domain  ',
   // social
   socialLinks: [

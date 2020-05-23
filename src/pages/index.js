@@ -35,16 +35,15 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            Bolo Or Bantai
             <br />
-            eget augue amet aliquet nisl cep donec
+            Kya Bolte tum
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+           Nashtaa paani krke
+            piye
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            Chai me chini kum.
           </p>
         </header>
         <ul className="icons major">
@@ -74,13 +73,12 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Magna primis lobortis
-            <br />
-            sed ullamcorper
+            Koi maare Dum
+            <br />To Koi Chillum
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Sab Pukaare 1 hi naam
+            Bole Bum Bum.
           </p>
         </div>
       </section>
